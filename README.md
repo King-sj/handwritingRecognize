@@ -1,1 +1,5 @@
-# handwritingReconize 
+# handwritingReconize #PyQt
+@King-sj
+仅为记录自己的学习路途而用
+由于训练数据使用的是28*28的，拍照而得的手写数字经过转换（其中包含了压缩）后丢失很多特征，导致识别效果堪忧
+模型都很简单
